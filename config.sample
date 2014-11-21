@@ -1,0 +1,10 @@
+require 'tweetstream'
+require 'twitter'
+
+PID_FILE            = '/var/run/tweet-watcher.pid'
+API_KEY             = 'foo'
+API_SECRET          = 'bar'
+ACCESS_TOKEN        = 'hoge'
+ACCESS_TOKEN_SECRET = 'fuga'
+TARGET_USER         = 1234567890
+
